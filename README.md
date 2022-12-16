@@ -1,2 +1,2 @@
 # projeto-quiz
-Projeto Quiz em **desenvolvimento**, atráves do curso do [@matheusbattisti](https://github.com/matheusbattisti)
+Projeto Quiz em **__desenvolvimento__**, atráves do curso do [@matheusbattisti](https://github.com/matheusbattisti)
