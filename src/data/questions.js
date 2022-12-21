@@ -47,7 +47,7 @@ const data = [
             "items",
             "index",
         ],
-        answer: "lenght",
+        answer: "length",
     },
 ];
 
